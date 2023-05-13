@@ -1,0 +1,132 @@
+body {
+    font-family: "lato", sans-serif;
+}
+/*div box color start*/
+
+body {
+   
+    background-image: url("assets/concretewall2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+  }
+  
+
+#BoxCategory_4 {
+    background-color: rgba(125, 125, 125, 0.629);
+}
+
+
+/*div box color end*/
+.BoxCategory4{
+    position:absolute;
+    top: 30px;
+    left: 300px;
+}
+
+.fontchoice1{
+font-size: 100px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/* fontchoice2 */
+
+.fontchoice2{
+  font-size: 30PX;
+  font-family: 'Times New Roman', Times, serif;
+  position: fixed;
+  color: #CECECE;
+  font-weight: 700;
+}
+
+/*fontchoice3 */
+.fontchoice3{
+font-size: 15PX;
+font-family: 'Times New Roman', Times, serif;
+position: fixed;
+color: #000000;
+font-weight: 700;
+}
+.fontchoice3 a{
+  text-decoration: none;
+  position:relative;
+  color: inherit;
+}
+
+
+  
+/*page2 start*/
+ .page2start{
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ position:absolute;
+ top:1400px;
+ left:500px;
+ } 
+/*page2 end*/
+ .page2{
+  font-size: 17px;
+font-family: 'Times New Roman', Times, serif;
+position: absolute;
+top: 1430px;
+left:500px;
+ }
+
+ #fucntion{
+position: absolute;
+ }
+
+ .function1{
+  position:absolute;
+  top: 1630px;
+  left: 900px;
+}
+.function1{
+ position: absolute;
+  top: 1000;
+  left: 1000;
+
+}
+.why1{
+  position:absolute;
+  top: 350px;
+  left: 1150px;
+}
+/*page3start*/
+
+ 
+
+.text1{
+  font-size: 17px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.text2{
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+ } 
+
+
+ 
+
+.text2{
+  font-size: 17px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.text2a{
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ } 
+
+ .vl {
+  border-left: 6px solid rgb(0, 0, 0);
+  height: 900px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+}
